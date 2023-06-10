@@ -1,6 +1,6 @@
 # Soft Kaizo IronMON
 
-Base for the rules is [Kaizo IronMON](https://ironmon.gg)
+Base for the rules is [Kaizo IronMON](ironmon.gg)
 
 The settings for this run require using a fork of the randomizer - [Something_Smart's Randomizer](https://github.com/something-smart/ironmon-randomizer)
 
