@@ -9,7 +9,7 @@ The settings for this run require using a fork of the randomizer - [Something_Sm
 |--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
 | Non-Random Starter             | You can pick the Pokemon after looking at the options.                                                                                  |
 | Limited Lab Legendaries        | You can pick legendaries under 600 BST in the lab.                                                                                      |
-| Limited Lab Pseudos            | You can pick psuedo-legendaries that have a 4x weakness in the lab.                                                                     |
+| Limited Lab Pseudos            | You can pick pseudo-legendaries that have a 4x weakness in the lab.                                                                     |
 | No Favourites Clause           | Since you can pick the above in the lab, the favourite clause is no longer in effect.                                                   |
 | Gym Leader TMs                 | Gym Leader TMs are now 100% learnable.                                                                                                  |
 | Catch Rates                    | Minimum Catch Rate is Set to level 5, which means the catches are guaranteed.                                                           |
