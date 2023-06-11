@@ -15,6 +15,7 @@ The settings for this run require using a fork of the randomizer - [Something_Sm
 | Stoners+                       | Any Pokemon that normally evolves from using a stone can now learn 1 non gym leader TM of your choice. After teaching the TM you cannot use any non gym leader TMs on that Pokemon. This refers to TMs that you pick up from the ground, get from other NPCs or get with your Pickup ability. TMs that you can buy are off limits |
 | Gym Leader TMs                 | Gym Leader TMs are now 100% learnable. Also full TM compatibility for Stoners+ rule                                                     |
 | Perish Song Counterplay        | You can switch out to your HM friend if you're affected by Perish Song, but then you have to immediately switch back                    |
+| Pure/Huge Power Usage          | You might use Pure Power or Huge Power if your Pokemon is 425 BST or lower                                                              |
 | Catch Rates                    | Minimum Catch Rate is Set to level 5, which means the catches are guaranteed                                                            |
 | Additional Trainer Pokemon     | Boss Trainers now have 4 additonal Pokemon and Important Trainers - 2 extra mons                                                        |
 | HM Moves in Battle             | You may now use HM moves in battle but only if they are in your Pokemon's learnset. This is possible thanks to rando fork's setting     |
