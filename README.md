@@ -19,7 +19,7 @@ The settings for this run require using a fork of the randomizer - [Something-Sm
 | Pure/Huge Power Usage          | You might use Pure Power or Huge Power if your Pokemon is 425 BST or lower                                                              |
 | Catch Rates                    | Minimum Catch Rate is set to level 5, which means the catches are guaranteed                                                            |
 | Additional Trainer Pokemon     | Boss Trainers now have 4 additonal Pokemon and Important Trainers - 2 extra mons                                                        |
-| HM Moves in Battle             | You may now use HM moves in battle but only if they are in your Pokemon's learnset. This is possible thanks to rando fork's setting     |
+| HM Moves in Battle             | You may now use HM moves in battle but only if they are in your Pokemon's learnset. This is possible thanks to rando fork's setting. If you choose to delete that HM move you cannot relearn it |
 | Highest level wilds (optional) | You can turn on the randomizer fork's setting to 'Force Highest Level Encounters' (Misc. Tweaks) if you want. This is purely optional   |
 | Speed Up Friendship            | Setting that increases base friendship to 215                                                                                           |
 | Rebalance Encounters (optional)| You can use a rando fork's setting to 'Rebalance Encounters'. This is optional                                                          |
