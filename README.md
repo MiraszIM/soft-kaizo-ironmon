@@ -17,10 +17,10 @@ The settings for this run require using a fork of the randomizer - [Something_Sm
 | Catch Rates                    | Minimum Catch Rate is Set to level 5, which means the catches are guaranteed                                                            |
 | Additional Trainer Pokemon     | Boss Trainers now have 4 additonal Pokemon and Important Trainers - 2 extra mons                                                        |
 | HM Moves in Battle             | You may now use HM moves in battle but only if they are in your Pokemon's learnset. This is possible thanks to rando fork's setting     |
-| Highest level wilds (optional) | You can turn on the rand fork's setting to 'Force Highest Level Encounters' (Misc. Tweaks) if you want. This is purely optional         |
+| Highest level wilds (optional) | You can turn on the randomizer fork's setting to 'Force Highest Level Encounters' (Misc. Tweaks) if you want. This is purely optional   |
 | Speed Up Friendship            | Setting that increases base friendship to 215                                                                                           |
 | Rebalance Encounters (optional)| You can use a rando fork's setting to 'Rebalance Encounters'. This is optional                                                          |
-| Other Misc. Tweaks (optional)  | These are optional, but recommended: 'Revert Bad Berries', 'Fix Mythical Pokemon Experience', 'Lock Imposter to Ditto', 'Balance Static Pokemon Levels', 'Ban Unown From Wild'. Might be more worth considering that are game-specific :) |
+| Other Misc. Tweaks (optional)  | These are optional, but recommended: 'Revert Bad Berries', 'Fix Mythical Pokemon Experience', 'Lock Imposter to Ditto', 'Balance Static Pokemon Levels', 'Ban Unown From Wild'. Might be more worth considering that are game-specific. Some of these might not be available in certain games |
 
 ## Game Specific Changes
 
