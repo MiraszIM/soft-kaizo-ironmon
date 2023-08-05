@@ -9,7 +9,7 @@ The settings for this run require using a fork of the randomizer - [Something-Sm
 |--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
 | Non-Random Starter             | You can pick the Pokemon after looking at all the options                                                                               |
 | Limited Lab Legendaries        | You can pick legendaries under 600 BST in the lab                                                                                       |
-| Limited Lab Pseudos            | You can pick pseudo-legendaries that have a 4x weakness in the lab                                                                      |
+| Limited Pseudos                | You can pick pseudo-legendaries that have a 4x weakness in the lab and catch them in the wild                                           |
 | No Favourites Clause           | Since you can pick the above in the lab, the favourite clause is no longer in effect                                                    |
 | Catch Rates                    | Minimum Catch Rate is set to level 5, which means the catches are guaranteed                                                            |
 | Speed Up Friendship            | Setting that increases base friendship to 215. You might also use in-game NPCs that increase friendship instead if you like             |
