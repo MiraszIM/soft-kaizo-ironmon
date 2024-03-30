@@ -22,6 +22,7 @@ The settings for this run require using a fork of the randomizer - [Something-Sm
 | Rule                           | Details                                                                                                                                 |
 |--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
 | Catch Rates                    | Minimum Catch Rate is set to level 5, which means the catches are guaranteed                                                            |
+| Rebalance Encounters (optional)| You can use a rando fork's setting to 'Rebalance Encounters'. This is optional                                                          |
 | Pivoting Everywhere            | You can re-enter or enter prematurely any dungeon if it's ONLY for pivoting purposes. You can't fight any trainers or pick up any items if you do that until you go back to where you were before entering that dungeon. That means you can go through cave tunnels to reach another area with pivots but cannot pick up items or fight trainers there yet |
 ### Moves
 | Rule                           | Details                                                                                                                                 |
@@ -30,23 +31,22 @@ The settings for this run require using a fork of the randomizer - [Something-Sm
 | Gym Leader TMs                 | Gym Leader TMs are now 100% learnable and those are the only ones you can teach unless your Pokemon falls under the Stoners+ rule       |
 | Stoners+                       | Any Pokemon that is normally evolved from using an evolution stone (like Arcanine, Nidoking, etc.) can now learn 1 non gym leader TM of your choice. After teaching the TM you cannot use any non gym leader TMs on that Pokemon. This refers to TMs that you pick up from the ground, receive from other NPCs, get as held item from your non-HM Friend Pokemon or acquire with your Pickup ability. TMs that you can buy are off limits |
 | HM Moves in Battle             | You may now use HM moves in battle but only if they are in your Pokemon's learnset. This is possible thanks to rando fork's setting. If you choose to delete that HM move you cannot relearn it |
-| Legal Drain Moves              | Drain moves - meaning attacking moves that deal damage and heal the user - are now legal to use everywhere. These are for example Drain Punch, Giga Drain, Leech Life. So not Leech Seed |
+| Legal Drain Moves              | Drain moves - meaning attacking moves that deal damage and heal the user based on damage done - are now legal to use everywhere. These are for example Drain Punch, Giga Drain, Leech Life. So not Leech Seed, Pain Split, Endeavor, etc. |
 | Banned Moves in Dungeons       | You can now use a banned move that your Pokemon learned by level-up or from a legal TM, but only once per dungeon (exactly one use of a move). You cannot use it in the overworld. This limit resets if you get a forced heal inside a dungeon. Healing with pp restoring items or other means doesn't reset the limit |
-| Sketch Scouting                | You are allowed to learn any TM move that would make Sketch scouting safe, but you are not allowed to use that move in trainer battles  |
+| Sketch Scouting                | You are allowed to learn any TM move that would make Sketch scouting safe if you have Sketch in your moveset, but you are not allowed to use that move in trainer battles  |
 ### Abilities
 | Rule                           | Details                                                                                                                                 |
 |--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| Pure/Huge Power Usage          | You might use Pure Power or Huge Power if your Pokemon is 425 BST or lower                                                              |
+| Pure/Huge Power Usage          | You might use the benefits of Pure Power or Huge Power if your Pokemon is 425 BST or lower. You may still run a Pokemon with Pure Power or Huge Power with higher BST, but then you are not allowed to use moves that benefit from the ability excluding Struggle |
 ### Combat
 | Rule                           | Details                                                                                                                                 |
 |--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
 | Perish Song Counterplay        | You can hard switch out to your HM friend if you're affected by Perish Song, but then you have to immediately switch back               |
 | Switch-out Moves Sanity        | Attacking moves that switch the user out like U-turn or Volt Switch (so not Baton Pass) can now be used when you have your HM friends with you, but only if no volatile negative effects or no negative stat changes are on your main Pokemon. This includes confusion, infatuation, leech seed, perish song and all similar negative effects that go away when you switch out. After you use such a move, you have to immediately switch back |
 
-## Minor or Optional Rule Changes/Settings
-| Rule                           | Details                                                                                                                                 |
+## Optional Settings
+| Setting                        | Details                                                                                                                                 |
 |--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| Rebalance Encounters (optional)| You can use a rando fork's setting to 'Rebalance Encounters'. This is optional                                                          |
 | Other Misc. Tweaks (optional)  | These are optional, but recommended: 'Revert Bad Berries', 'Fix Mythical Pokemon Experience', 'Lock Imposter to Ditto', 'Balance Static Pokemon Levels', 'Ban Unown From Wild'. Might be more worth considering that are game-specific. Some of these might not be available in certain games |
 
 ## Game Specific Changes
