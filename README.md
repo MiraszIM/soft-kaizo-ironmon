@@ -28,9 +28,8 @@ The settings for this run require using a fork of the randomizer - [Something-Sm
 ## Minor or Optional Rule Changes/Settings
 | Rule                           | Details                                                                                                                                 |
 |--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| Highest level wilds (optional) | You can turn on the randomizer fork's setting to 'Force Highest Level Encounters' (Misc. Tweaks) if you want. This is purely optional   |
 | Rebalance Encounters (optional)| You can use a rando fork's setting to 'Rebalance Encounters'. This is optional                                                          |
-| Other Misc. Tweaks (optional)  | These are optional, but recommended: 'Revert Bad Berries', 'Fix Mythical Pokemon Experience', 'Lock Imposter to Ditto', 'Balance Static Pokemon Levels', 'Ban Unown From Wild'. Might be more worth considering that are game-specific. Some of these might not be available in certain games |
+| Other Misc. Tweaks (optional)  | These are optional, but recommended: 'Revert Bad Berries', 'Fix Mythical Pokemon Experience', 'Lock Imposter to Ditto', 'Force Highest Level Encounters', 'Balance Static Pokemon Levels', 'Ban Unown From Wild'. Might be more worth considering that are game-specific. Some of these might not be available in certain games |
 
 ## Game Specific Changes
 
