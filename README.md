@@ -8,6 +8,8 @@ This ruleset's goal is to:
 - Eliminate the need to juggle HM Friends to and from the PC
 - Other minor improvements and Quality of Life changes
 
+Warning: Expect many rules and more complex setup.
+
 Base for the rules is [Kaizo IronMON](http://ironmon.gg)
 
 The settings for this run require using a fork of the randomizer - [Something-Smart's Randomizer](https://github.com/something-smart/ironmon-randomizer)
@@ -76,8 +78,8 @@ Also, to be able to increase wild/trainer Pokemon levels beyond the 1.5x limit, 
 Extra Information about the general rules above, but game-specific. The rule names below match the rule names that are present above.
 
 ### Pokemon Platinum
-| Rule                           | Details                                                                                                                                 |
-|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| Ensure Champion 100s           | Cynthia's lowest level is 58 in the original. That means the base ROM used for randomization needs an initial increase of Trainer Pokemon Levels of 15%. This ensures that after applying the usual 50% on top of that, it will be just enough to elevate all her Pokemon to lvl 100 |
-| Match Coverage Guy             | Highest level wild that could be acquired before the first mandatory trainer on Route 202 (Ace level 9) has level 4 in the original and 6 in standard IronMON. Due to extra trainer level increase we need to match the level 9. That requires the base ROM used for randomization to have an initial increase of Wild Pokemon Levels of 38%. This ensures that after applying the usual 50% on top of that, it will be just enough to elevate the early pivot options to level 9 |
-| Delay Fully-evolved            | Due to the further trainer Pokemon level increase, lowest level of Gardenia's Pokemon will be 35. That means guaranteed fully-evolved Pokemon appearance level setting should be set to 36 |
+| Rule                           | Values            | Details                                                                                                             |
+|--------------------------------|-------------------|---------------------------------------------------------------------------------------------------------------------|
+| Ensure Champion 100s           | **15% then 50%.** | Cynthia's lowest level is 58 in the original. That means the base ROM used for randomization needs an initial increase of Trainer Pokemon Levels of 15%. This ensures that after applying the usual 50% on top of that, it will be just enough to elevate all her Pokemon to lvl 100 |
+| Match Coverage Guy             | **38% then 50%.** | Highest level wild that could be acquired before the first mandatory trainer on Route 202 (Ace level 9) has level 4 in the original and 6 in standard IronMON. Due to extra trainer level increase we need to match the level 9. That requires the base ROM used for randomization to have an initial increase of Wild Pokemon Levels of 38%. This ensures that after applying the usual 50% on top of that, it will be just enough to elevate the early pivot options to level 9 |
+| Delay Fully-evolved            | **To Lvl 36.**    | Due to the further trainer Pokemon level increase, lowest level of Gardenia's Pokemon will be 35. That means guaranteed fully-evolved Pokemon appearance level setting should be set to 36 |
