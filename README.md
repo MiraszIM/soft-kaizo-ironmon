@@ -27,6 +27,7 @@ Also, to be able to increase wild/trainer Pokemon levels beyond the 1.5x limit, 
 | HM Friends Limits              | You can have up to a maximum of 2 HM friends with you in the party for the whole run and you can catch them as soon as you get out of the Lab. If they die in double/triple/rotation battles, due to Perish Song counterplays (see Perish Song Counterplay Rule) or other situations, you cannot revive them with items. Keep that in mind if you're in a dungeon with a double battle for example |
 | No Boxing of HM Friends        | You are not allowed to box your current HM Friends. If you wish to replace one, you can box it after catching a new one                 |
 | Speed Up Friendship            | Setting that increases base friendship to 215. You might also use in-game NPCs that increase friendship instead if you like             |
+| After-lab Starter Boost        | See First: 'Free Lab' and 'Match Coverage Guy' rules. After losing the lab fight(s) you are allowed to grind up your starter to match first mandatory trainer's ace level before you pivot or fight any trainers |
 ### Trainer Pokemon
 | Rule                           | Details                                                                                                                                 |
 |--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
@@ -39,7 +40,7 @@ Also, to be able to increase wild/trainer Pokemon levels beyond the 1.5x limit, 
 | Catch Rates                    | Minimum Catch Rate is set to level 5, which means the catches are guaranteed                                                            |
 | Maximum Total Level Upgrade    | You can now pivot up a total of 4 levels but only cumulatively across the entire run. Pivoting down levels doesn't affect the total     |
 | Rebalance Encounters (optional)| You can use a rando fork's setting to 'Rebalance Encounters'. This is optional, but recommended                                         |
-| Match Coverage Guy             | (TO BE TESTED) Wild Pokemon levels are further increased to match "after Lab" pivots with the first mandatory trainer you fight after that. Please refer to Game Specific Information section below to confirm the exact values |
+| Match Coverage Guy             | (TO BE TESTED) Wild Pokemon levels are further increased to match "after Lab" pivots with the first mandatory trainer's ace after the lab. Please refer to Game Specific Information section below to confirm the exact values |
 | More Pivots                    | You can re-enter or enter prematurely any dungeon if it's ONLY for pivoting purposes. You can't fight any trainers or pick up any items there if you do that |
 ### Moves
 | Rule                           | Details                                                                                                                                 |
