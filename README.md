@@ -46,18 +46,19 @@ Also, to be able to increase wild/trainer Pokemon levels beyond the 1.5x limit, 
 | Rule                           | Details                                                                                                                                 |
 |--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
 | All TMs learnable              | All TMs are learnable 100%, but some rules still apply as to which ones you can use                                                     |
-| Gym Leader TMs                 | Gym Leader TMs are now 100% learnable and those are the only ones you can teach unless your Pokemon falls under the Stoners+ rule       |
+| Gym Leader TMs                 | Gym Leader TMs are now 100% learnable and those are the only ones you can teach unless there is an exception from any other rules (like Stoners+, Sketch Scouting, Remember Old Moves etc.)  |
 | Stoners+                       | Any Pokemon that is normally evolved from using an evolution stone (like Arcanine, Nidoking, etc.) can now learn 1 non gym leader TM OR a move tutor move of your choice. After learning the move you cannot use any non gym leader TMs or move tutors on that Pokemon |
+| Remember Old Moves             | You can relearn a move that you previously had, but deleted, by using a TM (except Sketch) - this rule doesn't apply to Gens which make the TMs infinite use |
 | HM Moves in Battle             | You may now use HM moves in battle but only if they are in your Pokemon's learnset. This is possible thanks to rando fork's setting. If you choose to delete that HM move you cannot relearn it |
 | HM Moves Outside of Battle     | Considering you can now have an HM move in your learnset, you are not allowed to use it outside of battle until you acquire a corresponding HM item |
-| Legal Drain Moves              | Drain moves - meaning attacking moves that deal damage and heal the user based on damage done - are now legal to use everywhere. These are for example Drain Punch, Giga Drain, Leech Life. So not Leech Seed, Pain Split, Endeavor, etc. |
+| Legal Drain Moves              | Drain moves - meaning attacking moves that deal damage and heal the user based on Atk/SpAtk and damage done - are now legal to use everywhere. These are for example Drain Punch, Giga Drain, Leech Life. So not Leech Seed, Pain Split, Endeavor, etc. |
 | Banned Moves in Dungeons       | You can now use a banned move that your Pokemon learned by level-up or from a legal TM, but only once per dungeon (exactly one use of a move). You cannot use it in the overworld. This limit resets if you get a forced heal inside a dungeon. Healing with pp restoring items or other means doesn't reset the limit |
 | Sketch Scouting                | You are allowed to learn any TM move that would make Sketch scouting safe if you have Sketch in your moveset, but you are not allowed to use that move in trainer battles  |
 | Beat Up Shedinja               | You may use Beat Up but only as a Shedinja coverage move                                                                                |
 ### Abilities
 | Rule                           | Details                                                                                                                                 |
 |--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| Pure/Huge Power Usage          | You might use the benefits of Pure Power or Huge Power if your Pokemon is 425 BST or lower. You may still run a Pokemon with Pure Power or Huge Power with higher BST, but then you are not allowed to use moves that benefit from the ability excluding Struggle |
+| Pure/Huge Power Usage          | You might use the benefits of Pure Power or Huge Power if your Pokemon is 425 BST or lower.                                             |
 | Extra Banned Abilities         | Parental Bond is banned                                                                                                                 |
 ### Items
 | Rule                           | Details                                                                                                                                 |
