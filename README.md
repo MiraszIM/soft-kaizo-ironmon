@@ -43,6 +43,7 @@ The settings for this run require using a fork of the randomizer - [Something-Sm
 | Maximum Total Level Upgrade    | You can now pivot up a total of 4 levels but only cumulatively across the entire run. Pivoting down levels doesn't affect the total     |
 | Rebalance Encounters (optional)| You can use a rando fork's setting to 'Rebalance Encounters'. This is optional, but recommended                                         |
 | No Limit Per Route             | The limit of catches per route is no longer in effect, but you can only catch 1 Pokemon of each species throughout the run              |
+| Catch & Release to Run         | You can use the guarantee to catch a Pokemon with a ball to escape any wild encounter by catching and releasing the wild Pokemon        |
 | Match Coverage Guy             | (TO BE TESTED) Wild Pokemon levels are further increased to elevate "after Lab" pivots against the first mandatory trainer's ace after the lab. This requires to have the 'Double % Increase' setting checked. Please refer to Game Specific Information section below to confirm the exact values |
 | More Pivots                    | You can re-enter or enter prematurely any dungeon if it's ONLY for pivoting purposes. You can't fight any trainers or pick up any items there if you do that |
 ### Moves
