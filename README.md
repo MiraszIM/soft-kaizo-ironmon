@@ -15,6 +15,10 @@ Base for the rules is [Kaizo IronMON](http://ironmon.gg)
 The settings for this run require using a fork of the randomizer - [Something-Smart's Randomizer](https://github.com/something-smart/ironmon-randomizer)
 
 ## Rule Changes
+### General
+| Rule                           | Details                                                                                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| Kaizo Baseline                 | Base for the rules is the official Kaizo IronMON ruleset. That means all the rules from Standard, Ultimate and Kaizo sections of that ruleset are in effect unless they're changed by a rule from the higher difficulty set or from the following set of rules for Soft Kaizo |
 ### Your Pokemon
 | Rule                           | Details                                                                                                                                 |
 |--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
