@@ -3,7 +3,7 @@
 This ruleset's goal is to:
 - Make the early game much more tolerable
 - Make the endgame more interesting
-- Increase the amount and quality of pivot options and the spots in the run that have viable pivots
+- Improve pivoting by trying to increase the amount and quality of pivot options, the spots in the run that have viable pivots and make the catching and running process easier and less deadly
 - Introduce a Perish Song counterplay possibility
 - Eliminate the need to juggle HM Friends to and from the PC
 - Other minor improvements and Quality of Life changes
@@ -42,6 +42,7 @@ The settings for this run require using a fork of the randomizer - [Something-Sm
 | Catch Rates                    | Minimum Catch Rate is set to level 5, which means the catches are guaranteed                                                            |
 | Maximum Total Level Upgrade    | You can now pivot up a total of 4 levels but only cumulatively across the entire run. Pivoting down levels doesn't affect the total     |
 | Rebalance Encounters (optional)| You can use a rando fork's setting to 'Rebalance Encounters'. This is optional, but recommended                                         |
+| No Limit Per Route             | The limit of catches per route is no longer in effect, but you can only catch 1 Pokemon of each species throughout the run              |
 | Match Coverage Guy             | (TO BE TESTED) Wild Pokemon levels are further increased to elevate "after Lab" pivots against the first mandatory trainer's ace after the lab. This requires to have the 'Double % Increase' setting checked. Please refer to Game Specific Information section below to confirm the exact values |
 | More Pivots                    | You can re-enter or enter prematurely any dungeon if it's ONLY for pivoting purposes. You can't fight any trainers or pick up any items there if you do that |
 ### Moves
